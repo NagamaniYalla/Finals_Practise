@@ -1,0 +1,9 @@
+h2 {color:orange;
+}
+/* Comments in CSS can also be
+inside <style> elements in HTML*/ 
+p {background-color: red;
+font-family: Times;
+border: 5px solid blue;
+padding: 10px;
+}
