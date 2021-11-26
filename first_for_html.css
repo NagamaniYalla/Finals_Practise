@@ -7,3 +7,9 @@ font-family: Times;
 border: 5px solid blue;
 padding: 10px;
 }
+.code{background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: black;
+    padding-left: 0ch;
+
+}
